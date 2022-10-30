@@ -1,3 +1,5 @@
+built with firebase v.7.20, realtime database isn't working, need to check the reason later
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
